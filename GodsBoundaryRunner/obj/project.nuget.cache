@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1AFnsruX5t8=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\GodsBoundaryRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ekays\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\ekays\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

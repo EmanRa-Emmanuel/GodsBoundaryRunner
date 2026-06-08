@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\Tests\\GodsBoundaryRunner.Tests\\GodsBoundaryRunner.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\GodsBoundaryRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\GodsBoundaryRunner.csproj",
+        "projectName": "GodsBoundaryRunner",
+        "projectPath": "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\GodsBoundaryRunner.csproj",
+        "packagesPath": "C:\\Users\\ekays\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ekays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Raylib-cs": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\Tests\\GodsBoundaryRunner.Tests\\GodsBoundaryRunner.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\Tests\\GodsBoundaryRunner.Tests\\GodsBoundaryRunner.Tests.csproj",
+        "projectName": "GodsBoundaryRunner.Tests",
+        "projectPath": "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\Tests\\GodsBoundaryRunner.Tests\\GodsBoundaryRunner.Tests.csproj",
+        "packagesPath": "C:\\Users\\ekays\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\Tests\\GodsBoundaryRunner.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ekays\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\GodsBoundaryRunner.csproj": {
+                "projectPath": "c:\\Users\\ekays\\Documents\\Projects\\G.O.D.S\\GodsBoundaryRunner\\GodsBoundaryRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
